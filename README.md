@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gsloan/MyFirstPorject/_apis/build/status/gsloan-chef.pipelines-java?branchName=master)](https://dev.azure.com/gsloan/MyFirstPorject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
